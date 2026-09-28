@@ -1,0 +1,47 @@
+[
+  "nope",
+  42,
+  {
+    "id": "c3",
+    "params": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 1.5,
+    "method": "add",
+    "params": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "c5",
+    "method": 7,
+    "params": []
+  },
+  {
+    "id": "c6",
+    "method": "mul",
+    "params": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "c7",
+    "method": "add",
+    "params": {
+      "a": 1
+    }
+  },
+  {
+    "id": "c8",
+    "method": "stats",
+    "params": [
+      1,
+      2
+    ]
+  }
+]

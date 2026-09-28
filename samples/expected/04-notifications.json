@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "summary": {
+    "total": 7,
+    "ok": 2,
+    "error": 0,
+    "skipped": 5
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0,
+      "count": 7,
+      "status": "ok"
+    }
+  ],
+  "results": [
+    {
+      "index": 2,
+      "id": "d3",
+      "status": "ok",
+      "result": 5
+    },
+    {
+      "index": 5,
+      "id": "d6",
+      "status": "ok",
+      "result": 3.0
+    }
+  ]
+}

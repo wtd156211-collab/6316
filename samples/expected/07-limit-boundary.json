@@ -1,0 +1,93 @@
+{
+  "status": "failed",
+  "summary": {
+    "total": 9,
+    "ok": 8,
+    "error": 1,
+    "skipped": 0
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0,
+      "count": 8,
+      "status": "ok"
+    },
+    {
+      "index": 1,
+      "start": 8,
+      "count": 1,
+      "status": "failed"
+    }
+  ],
+  "results": [
+    {
+      "index": 0,
+      "id": "f0",
+      "status": "ok",
+      "result": 30
+    },
+    {
+      "index": 1,
+      "id": "f1",
+      "status": "ok",
+      "result": 0.125
+    },
+    {
+      "index": 2,
+      "id": "f2",
+      "status": "ok",
+      "result": {
+        "count": 2,
+        "sum": 4,
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "index": 3,
+      "id": "f3",
+      "status": "ok",
+      "result": 3.0
+    },
+    {
+      "index": 4,
+      "id": "f4",
+      "status": "ok",
+      "result": 0
+    },
+    {
+      "index": 5,
+      "id": "f5",
+      "status": "ok",
+      "result": 1.5
+    },
+    {
+      "index": 6,
+      "id": "f6",
+      "status": "ok",
+      "result": {
+        "count": 3,
+        "sum": 18,
+        "min": 3,
+        "max": 9
+      }
+    },
+    {
+      "index": 7,
+      "id": "f7",
+      "status": "ok",
+      "result": 0.5
+    },
+    {
+      "index": 8,
+      "id": "f8",
+      "status": "error",
+      "error": {
+        "layer": "business",
+        "code": "E_BIZ_TOO_LONG",
+        "at": 4
+      }
+    }
+  ]
+}

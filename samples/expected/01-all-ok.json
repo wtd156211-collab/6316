@@ -1,0 +1,54 @@
+{
+  "status": "ok",
+  "summary": {
+    "total": 5,
+    "ok": 5,
+    "error": 0,
+    "skipped": 0
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0,
+      "count": 5,
+      "status": "ok"
+    }
+  ],
+  "results": [
+    {
+      "index": 0,
+      "id": "a1",
+      "status": "ok",
+      "result": 3
+    },
+    {
+      "index": 1,
+      "id": 2,
+      "status": "ok",
+      "result": 3.5
+    },
+    {
+      "index": 2,
+      "id": "a3",
+      "status": "ok",
+      "result": {
+        "count": 4,
+        "sum": 9,
+        "min": 1,
+        "max": 4
+      }
+    },
+    {
+      "index": 3,
+      "id": "a4",
+      "status": "ok",
+      "result": 0
+    },
+    {
+      "index": 4,
+      "id": "a5",
+      "status": "ok",
+      "result": 0.75
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "status": "failed",
+  "summary": {
+    "total": 8,
+    "ok": 1,
+    "error": 7,
+    "skipped": 0
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0,
+      "count": 8,
+      "status": "failed"
+    }
+  ],
+  "results": [
+    {
+      "index": 0,
+      "id": null,
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_ITEM",
+        "field": "item"
+      }
+    },
+    {
+      "index": 1,
+      "id": null,
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_ITEM",
+        "field": "item"
+      }
+    },
+    {
+      "index": 2,
+      "id": "c3",
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_METHOD",
+        "field": "method"
+      }
+    },
+    {
+      "index": 3,
+      "id": null,
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_ID",
+        "field": "id"
+      }
+    },
+    {
+      "index": 4,
+      "id": "c5",
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_METHOD",
+        "field": "method"
+      }
+    },
+    {
+      "index": 5,
+      "id": "c6",
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_UNKNOWN",
+        "field": "method"
+      }
+    },
+    {
+      "index": 6,
+      "id": "c7",
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_PARAMS",
+        "field": "params"
+      }
+    },
+    {
+      "index": 7,
+      "id": "c8",
+      "status": "ok",
+      "result": {
+        "count": 2,
+        "sum": 3,
+        "min": 1,
+        "max": 2
+      }
+    }
+  ]
+}

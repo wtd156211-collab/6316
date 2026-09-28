@@ -1,0 +1,78 @@
+[
+  {
+    "id": "f0",
+    "method": "add",
+    "params": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "f1",
+    "method": "div",
+    "params": [
+      1,
+      8
+    ]
+  },
+  {
+    "id": "f2",
+    "method": "stats",
+    "params": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": "f3",
+    "method": "add",
+    "params": [
+      1.5,
+      1.5
+    ]
+  },
+  {
+    "id": "f4",
+    "method": "add",
+    "params": [
+      -5,
+      5
+    ]
+  },
+  {
+    "id": "f5",
+    "method": "div",
+    "params": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "f6",
+    "method": "stats",
+    "params": [
+      9,
+      3,
+      6
+    ]
+  },
+  {
+    "id": "f7",
+    "method": "add",
+    "params": [
+      0,
+      0.5
+    ]
+  },
+  {
+    "id": "f8",
+    "method": "stats",
+    "params": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

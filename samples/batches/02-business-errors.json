@@ -1,0 +1,61 @@
+[
+  {
+    "id": "b1",
+    "method": "add",
+    "params": [
+      1
+    ]
+  },
+  {
+    "id": "b2",
+    "method": "add",
+    "params": [
+      1,
+      "x"
+    ]
+  },
+  {
+    "id": "b3",
+    "method": "div",
+    "params": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "b4",
+    "method": "stats",
+    "params": []
+  },
+  {
+    "id": "b5",
+    "method": "stats",
+    "params": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "b6",
+    "method": "div",
+    "params": [
+      1,
+      true
+    ]
+  },
+  {
+    "id": "b7",
+    "method": "add",
+    "params": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "b8",
+    "method": "stats"
+  }
+]

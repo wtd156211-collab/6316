@@ -1,0 +1,51 @@
+[
+  {
+    "method": "add",
+    "params": [
+      1,
+      2
+    ]
+  },
+  {
+    "method": "div",
+    "params": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "d3",
+    "method": "add",
+    "params": [
+      2,
+      3
+    ]
+  },
+  {
+    "method": "stats",
+    "params": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "method": "add",
+    "params": [
+      "x",
+      1
+    ]
+  },
+  {
+    "id": "d6",
+    "method": "div",
+    "params": [
+      9,
+      3
+    ]
+  },
+  {
+    "method": 7,
+    "params": []
+  }
+]

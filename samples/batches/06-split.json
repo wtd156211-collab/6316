@@ -1,0 +1,152 @@
+[
+  {
+    "id": "e00",
+    "method": "add",
+    "params": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": "e01",
+    "method": "stats",
+    "params": [
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "method": "add",
+    "params": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": "e03",
+    "method": "div",
+    "params": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "e04",
+    "method": "add",
+    "params": [
+      3,
+      4
+    ]
+  },
+  "oops",
+  {
+    "id": "e06",
+    "method": "stats",
+    "params": [
+      1,
+      "2"
+    ]
+  },
+  {
+    "id": "e07",
+    "method": "add",
+    "params": [
+      -2,
+      2
+    ]
+  },
+  {
+    "id": "e08",
+    "method": "div",
+    "params": [
+      10,
+      4
+    ]
+  },
+  {
+    "id": "e09",
+    "method": "div",
+    "params": [
+      7,
+      2
+    ]
+  },
+  {
+    "id": "e10",
+    "method": "stats",
+    "params": [
+      7
+    ]
+  },
+  {
+    "id": "e11",
+    "method": "add",
+    "params": [
+      0,
+      0
+    ]
+  },
+  {
+    "method": "div",
+    "params": [
+      5,
+      0
+    ]
+  },
+  {
+    "id": "e13",
+    "method": "add",
+    "params": [
+      1,
+      0.5
+    ]
+  },
+  {
+    "id": "e14",
+    "method": "stats",
+    "params": [
+      2,
+      4,
+      6,
+      8
+    ]
+  },
+  {
+    "id": "e15",
+    "method": "div",
+    "params": [
+      9,
+      2
+    ]
+  },
+  {
+    "id": "e16",
+    "method": "add",
+    "params": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "e17",
+    "method": "div",
+    "params": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "e18",
+    "method": "stats",
+    "params": []
+  },
+  {
+    "id": "e19",
+    "method": "add",
+    "params": [
+      8,
+      9
+    ]
+  }
+]

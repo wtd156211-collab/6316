@@ -1,0 +1,174 @@
+{
+  "status": "failed",
+  "summary": {
+    "total": 20,
+    "ok": 13,
+    "error": 5,
+    "skipped": 2
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0,
+      "count": 8,
+      "status": "failed"
+    },
+    {
+      "index": 1,
+      "start": 8,
+      "count": 8,
+      "status": "ok"
+    },
+    {
+      "index": 2,
+      "start": 16,
+      "count": 4,
+      "status": "failed"
+    }
+  ],
+  "results": [
+    {
+      "index": 0,
+      "id": "e00",
+      "status": "ok",
+      "result": 2
+    },
+    {
+      "index": 1,
+      "id": "e01",
+      "status": "ok",
+      "result": {
+        "count": 3,
+        "sum": 15,
+        "min": 5,
+        "max": 5
+      }
+    },
+    {
+      "index": 3,
+      "id": "e03",
+      "status": "error",
+      "error": {
+        "layer": "business",
+        "code": "E_BIZ_DIV_ZERO",
+        "at": 1
+      }
+    },
+    {
+      "index": 4,
+      "id": "e04",
+      "status": "ok",
+      "result": 7
+    },
+    {
+      "index": 5,
+      "id": null,
+      "status": "error",
+      "error": {
+        "layer": "protocol",
+        "code": "E_PROTO_ITEM",
+        "field": "item"
+      }
+    },
+    {
+      "index": 6,
+      "id": "e06",
+      "status": "error",
+      "error": {
+        "layer": "business",
+        "code": "E_BIZ_TYPE",
+        "at": 1
+      }
+    },
+    {
+      "index": 7,
+      "id": "e07",
+      "status": "ok",
+      "result": 0
+    },
+    {
+      "index": 8,
+      "id": "e08",
+      "status": "ok",
+      "result": 2.5
+    },
+    {
+      "index": 9,
+      "id": "e09",
+      "status": "ok",
+      "result": 3.5
+    },
+    {
+      "index": 10,
+      "id": "e10",
+      "status": "ok",
+      "result": {
+        "count": 1,
+        "sum": 7,
+        "min": 7,
+        "max": 7
+      }
+    },
+    {
+      "index": 11,
+      "id": "e11",
+      "status": "ok",
+      "result": 0
+    },
+    {
+      "index": 13,
+      "id": "e13",
+      "status": "ok",
+      "result": 1.5
+    },
+    {
+      "index": 14,
+      "id": "e14",
+      "status": "ok",
+      "result": {
+        "count": 4,
+        "sum": 20,
+        "min": 2,
+        "max": 8
+      }
+    },
+    {
+      "index": 15,
+      "id": "e15",
+      "status": "ok",
+      "result": 4.5
+    },
+    {
+      "index": 16,
+      "id": "e16",
+      "status": "ok",
+      "result": 11
+    },
+    {
+      "index": 17,
+      "id": "e17",
+      "status": "error",
+      "error": {
+        "layer": "business",
+        "code": "E_BIZ_DIV_ZERO",
+        "at": 1
+      }
+    },
+    {
+      "index": 18,
+      "id": "e18",
+      "status": "error",
+      "error": {
+        "layer": "business",
+        "code": "E_BIZ_EMPTY",
+        "at": null
+      }
+    },
+    {
+      "index": 19,
+      "id": "e19",
+      "status": "ok",
+      "result": 17
+    }
+  ]
+}
